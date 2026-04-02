@@ -1,9 +1,9 @@
 # Guess the number game 🤔
-Features
+**Features**
 
 Random number generation between 1 and 100
 
-Multiple difficulty levels:
+**Multiple difficulty levels:**
 
 
 Easy – 10 attempts
@@ -18,13 +18,13 @@ Displays remaining attempts
 
 Ends when the player guesses correctly or runs out of attempts
 
-Technologies Used💻
+**Technologies Used💻**
 
 Python 3
 
 Python random module
 
-How the Game Works
+**How the Game Works**
 
 The program generates a random number between 1 and 100.
 
@@ -43,8 +43,7 @@ The game continues until:
 The correct number is guessed, or
 The player runs out of attempts.
 
-
-Future improvements could include:
+**Future improvements could include:**
 
 Adding a leaderboard
 
@@ -52,8 +51,8 @@ Allowing players to restart the game
 
 Building a GUI version using Tkinter
 
-Author
+**Author**
 
-Student Python Project
+Nancy Mutheu python student
 
 Created as part of a Python project 
