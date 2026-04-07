@@ -4,39 +4,38 @@ The Number Game is a simple Python terminal game where the computer randomly gen
 
 The game provides hints such as "Too High" or "Too Low" to help the player guess the correct number.
 
-## 
-Easy – 10 attempts
+## Features
 
-Medium – 7 attempts
+* Easy – 10 attempts
 
-Hard – 5 attempts
+* Medium – 7 attempts
 
-Feedback after each guess
+* Hard – 5 attempts
 
-Displays remaining attempts
+* Feedback after each guess
 
-Ends when the player guesses correctly or runs out of attempts
+* Displays remaining attempts
+
+* Ends when the player guesses correctly or runs out of attempts
 
 ## Technologies Used
 
-Python 3
+1. Python 3
 
-Python random module
+2. Python random module
 
 ## Getting started
 
 ### Prerequisites
 
-Make sure you have Python 3 installed on your computer.
+1. Make sure you have Python 3 installed on your computer.
 
-Check installation with:
-
+2. Check installation with:
 python --version
 
-Installation
+### Installation
 
 Clone the repository:
-
 git clone https://github.com/mutheumbuta/Numbergame.git
 
 Navigate to the project folder:
@@ -47,33 +46,33 @@ guessgame.py
 
 
 ## How the game works
+ 
+* The program generates a random number between 1 and 100.
 
-The program generates a random number between 1 and 100.
+* The user selects a difficulty level.
 
-The user selects a difficulty level.
+* The player guesses the number.
 
-The player guesses the number.
+* The program gives hints:
 
-The program gives hints:
+* Too High
 
-Too High
+* Too Low
 
-Too Low
+* The game continues until:
 
-The game continues until:
+* The correct number is guessed, or
 
-The correct number is guessed, or
-
-The player runs out of attempts.
+* The player runs out of attempts.
 
 
 ## Future Improvements
 
-Adding a leaderboard
+1. Adding a leaderboard
 
-Allowing players to restart the game
+2.  Allowing players to restart the game
 
-Building a GUI version using Tkinter
+3.  Building a GUI version using Tkinter
 
 ## Contributions
 
