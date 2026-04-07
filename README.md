@@ -30,21 +30,29 @@ Python random module
 **🚀 Getting Started**
 
 **Prerequisites**
+
 Make sure you have Python 3 installed on your computer.
 
 Check installation with:
 
 python --version
+
 Installation
+
 Clone the repository:
+
 git clone https://github.com/yourusername/guess-the-number.git
+
 Navigate to the project folder:
-cd guess-the-number
+
+cd Numbergame
+
 Run the game:
-python guess_number.py
+
+guessgame.py
 
 
-**How the Game Works**
+**🎮 How the game works**
 
 The program generates a random number between 1 and 100.
 
@@ -61,6 +69,7 @@ Too Low
 The game continues until:
 
 The correct number is guessed, or
+
 The player runs out of attempts.
 
 
