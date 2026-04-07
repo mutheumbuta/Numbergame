@@ -1,7 +1,7 @@
-# Guess the number game 
+# Numbergame 
 
 
-The Guess the Number Game is a simple Python terminal game where the computer randomly generates a number between 1 and 100, and the player tries to guess it within a limited number of attempts.
+The Number Game is a simple Python terminal game where the computer randomly generates a number between 1 and 100, and the player tries to guess it within a limited number of attempts.
 
 The game provides hints such as "Too High" or "Too Low" to help the player guess the correct number.
 
