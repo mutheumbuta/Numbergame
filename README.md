@@ -41,7 +41,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/yourusername/guess-the-number.git
+git clone https://github.com/mutheumbuta/Numbergame.git
 
 Navigate to the project folder:
 
@@ -80,6 +80,12 @@ Adding a leaderboard
 Allowing players to restart the game
 
 Building a GUI version using Tkinter
+
+
+**📄 License**
+
+This project is open source and available under the MIT License.
+
 
 **👩‍💻 Author**
 
