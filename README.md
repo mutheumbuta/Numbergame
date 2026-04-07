@@ -1,4 +1,4 @@
-# Guess the number game 🤔
+# Guess the number game 
 
 
 The Guess the Number Game is a simple Python terminal game where the computer randomly generates a number between 1 and 100, and the player tries to guess it within a limited number of attempts.
@@ -6,7 +6,7 @@ The Guess the Number Game is a simple Python terminal game where the computer ra
 The game provides hints such as "Too High" or "Too Low" to help the player guess the correct number.
 
 
-**📌 Features**
+**Features**
 
 
 Easy – 10 attempts
@@ -21,13 +21,13 @@ Displays remaining attempts
 
 Ends when the player guesses correctly or runs out of attempts
 
-**🛠️ Technologies Used**
+**Technologies Used**
 
 Python 3
 
 Python random module
 
-**🚀 Getting Started**
+**Getting Started**
 
 **Prerequisites**
 
@@ -50,7 +50,7 @@ Run the game:
 guessgame.py
 
 
-**🎮 How the game works**
+**How the game works**
 
 The program generates a random number between 1 and 100.
 
@@ -71,7 +71,7 @@ The correct number is guessed, or
 The player runs out of attempts.
 
 
-**🔮 Future Improvements**
+**Future Improvements**
 
 Adding a leaderboard
 
@@ -85,7 +85,7 @@ Building a GUI version using Tkinter
 This project is open source and available under the MIT License.
 
 
-**👩‍💻 Author**
+**Author**
 
 Nancy Mutheu python student
 
