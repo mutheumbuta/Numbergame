@@ -44,11 +44,9 @@ Clone the repository:
 git clone https://github.com/mutheumbuta/Numbergame.git
 
 Navigate to the project folder:
-
 cd Numbergame
 
 Run the game:
-
 guessgame.py
 
 
