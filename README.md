@@ -61,9 +61,9 @@ The correct number is guessed, or The player runs out of attempts.
 
 1. Adding a leaderboard
 
-2.  Allowing players to restart the game
+2. Allowing players to restart the game
 
-3.  Building a GUI version using Tkinter
+3. Building a GUI version using Tkinter
 
 ## Contributing
 
@@ -87,4 +87,4 @@ Nancy Mutheu
 
 gmail:mutheumbuta@gmail.com, Github:mutheumbuta
 
-Created as part of a Python  programming practice excercise
+Created as part of a Python programming practice excercise
