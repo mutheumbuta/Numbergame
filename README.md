@@ -74,9 +74,16 @@ guessgame.py
 
 3.  Building a GUI version using Tkinter
 
-## Contributions
+## Contributing
 
-Contributions, suggestions, and improvements are welcome. Feel free to fork the repository and submit a pull request.
+Contributions, suggestionsz, and improvements are welcome!
+
+To contribute:
+1. Fork the repository 
+2. Create a new branch
+3. Make your changes
+4. Commit and push the changes
+5. Submit a Pull Request
 
 ## 📄 License
 
