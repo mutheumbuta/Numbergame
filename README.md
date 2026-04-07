@@ -79,6 +79,9 @@ Allowing players to restart the game
 
 Building a GUI version using Tkinter
 
+**Contributions**
+
+Contributions, suggestions, and improvements are welcome. Feel free to fork the repository and submit a pull request.
 
 **📄 License**
 
