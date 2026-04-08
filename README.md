@@ -34,10 +34,10 @@ python --version
 ### Installation
 
 Clone the repository:
-git clone https://github.com/mutheumbuta/Numbergame.git
+git clone https://github.com/<yourusername>/<reponame>.git//bash
 
 Navigate to the project folder:
-cd Numbergame
+cd<reponame>
 
 Run the game:
 guessgame.py
