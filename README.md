@@ -40,7 +40,7 @@ Navigate to the project folder:
 cd<reponame>
 
 Run the game:
-guessgame.py
+python3 guessgame.py
 
 
 ## How the game works
