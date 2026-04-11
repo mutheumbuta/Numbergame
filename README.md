@@ -34,11 +34,14 @@ python --version
 ### Installation
 
 Clone the repository:
-git clone https://github.com/<yourusername>/<reponame>.git//bash
+```bash
+git clone https://github.com/mutheumbuta/<reponame>.git//bash
+```
 
 Navigate to the project folder:
-cd<reponame>
-
+```bash
+cd
+```
 Run the game:
 python3 guessgame.py
 
